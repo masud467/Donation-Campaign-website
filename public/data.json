@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/BKxJKjP/shallow-focus-shot-african-child-learning-school.jpg",
+        "title": "Education for Every Child",
+        "category": "Education",
+        "category_bg": "#FF5733",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#4CAF50",
+        "description": "Help us provide quality education to children in underprivileged communities, empowering them for a brighter future.",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/rFsNTwT/7315.jpg",
+        "title": "Clean Water Initiative",
+        "category": "Health & Well-being",
+        "category_bg": "#009688",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#FFC107",
+        "description": "Support our mission to bring clean and safe drinking water to communities in need, reducing the risk of waterborne diseases.",
+        "price": 30
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/CWWZn0k/front-view-box-with-food-donation.jpg",
+        "title": "Food for All",
+        "category": "Food Security",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#03A9F4",
+        "description": "Join us in the fight against hunger by providing nutritious meals to families facing food insecurity, ensuring no one goes to bed hungry.",
+        "price": 20
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/TMqtwmy/2884.jpg",
+        "title": "Shelter for the Homeless",
+        "category": "Housing",
+        "category_bg": "#673AB7",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#FF5722",
+        "description": "Help us build shelters and provide housing assistance to homeless individuals and families, offering them a safe place to call home.",
+        "price": 50
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/BKxJKjP/shallow-focus-shot-african-child-learning-school.jpg",
+        "title": "Empowering Women",
+        "category": "Women's Empowerment",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#795548",
+        "description": "Support programs that promote gender equality, provide vocational training, and empower women and girls to reach their full potential.",
+        "price": 35
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/rFsNTwT/7315.jpg",
+        "title": "Environmental Conservation",
+        "category": "Environment",
+        "category_bg": "#4CAF50",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#FF5722",
+        "description": "Join our efforts to protect and preserve the environment through tree planting, wildlife conservation, and sustainable practices.",
+        "price": 40
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/CWWZn0k/front-view-box-with-food-donation.jpg",
+        "title": "Emergency Relief Fund",
+        "category": "Disaster Relief",
+        "category_bg": "#FF5722",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#607D8B",
+        "description": "Provide immediate assistance to communities affected by natural disasters, helping them rebuild and recover from unforeseen emergencies.",
+        "price": 50
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/TMqtwmy/2884.jpg",
+        "title": "Healthcare Access",
+        "category": "Health & Well-being",
+        "category_bg": "#009688",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#FFC107",
+        "description": "Ensure access to essential healthcare services for vulnerable populations, improving health outcomes and saving lives.",
+        "price": 30
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/BKxJKjP/shallow-focus-shot-african-child-learning-school.jpg",
+        "title": "Animal Welfare",
+        "category": "Animal Rights",
+        "category_bg": "#FFC107",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#03A9F4",
+        "description": "Support initiatives that promote the well-being and protection of animals, including rescue operations, shelter support, and advocacy.",
+        "price": 25
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/GkCXN5W/close-up-people-holding-apples-bag.jpg",
+        "title": "Youth Development",
+        "category": "Youth Empowerment",
+        "category_bg": "#2196F3",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#FF5722",
+        "description": "Invest in programs that empower young people with education, skills training, and mentorship opportunities, unlocking their potential.",
+        "price": 35
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/CWWZn0k/front-view-box-with-food-donation.jpg",
+        "title": "Community Building",
+        "category": "Community Development",
+        "category_bg": "#FF5722",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#795548",
+        "description": "Foster strong, resilient communities through initiatives that promote social cohesion, civic engagement, and inclusive development.",
+        "price": 20
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/TMqtwmy/2884.jpg",
+        "title": "Art & Culture Preservation",
+        "category": "Arts & Culture",
+        "category_bg": "#795548",
+        "card_bg": "#FFFFFF",
+        "text_button_bg": "#4CAF50",
+        "description": "Support the preservation and promotion of art, culture, and heritage, enriching lives and fostering creativity within communities.",
+        "price": 25
+    }
+]
